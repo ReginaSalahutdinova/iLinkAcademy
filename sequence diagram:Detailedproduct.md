@@ -37,4 +37,5 @@ f--> z: передача конечной информации о товаре
 
 @enduml
 
+
 ![image](https://user-images.githubusercontent.com/104089098/164285803-445214bd-ead1-4c7d-995c-167dcbcac056.png)
