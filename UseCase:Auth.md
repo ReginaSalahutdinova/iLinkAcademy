@@ -1,4 +1,4 @@
-UseCase:Auth
+Use Case:Auth
 
 @startuml
 
