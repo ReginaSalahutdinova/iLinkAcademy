@@ -1,4 +1,4 @@
-# Usecase: Самокат
+# Use Сase: Самокат
 
 
 @startuml 
